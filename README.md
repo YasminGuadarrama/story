@@ -1,1 +1,3 @@
-# story
+# How the penguin found their rock
+
+A story about two penguins named bluey and Pinky.
